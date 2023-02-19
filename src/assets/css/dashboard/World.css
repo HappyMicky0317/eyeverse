@@ -1,0 +1,29 @@
+.inside-world {
+  background-color: #222222;
+}
+.swiper-slide{
+  width: 70%!important;
+  display: -webkit-box!important;
+  display: -webkit-flex!important;
+  display: -moz-box!important;
+  display: -ms-flexbox!important;
+  display: flex!important;
+  -webkit-flex-align: center!important;
+  -ms-flex-align: center!important;
+  -webkit-align-items: center!important;
+  align-items: center!important;
+}
+.hero-carousel-img{
+  width: 60%;
+}
+.hero-text{
+  width: 50%;
+  margin-left:-200px
+}
+.text-phragrapth{
+  padding: 0 50px 0 50px;
+  margin-top: 50px; 
+}
+.hero-phragraph-text{
+ 
+}

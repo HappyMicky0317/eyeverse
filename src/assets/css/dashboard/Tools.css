@@ -1,0 +1,29 @@
+.inside-tools {
+  background-color: #222222;
+  padding: 150px 150px;
+}
+.tool-main-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.tool-container{
+  margin: auto;
+}
+.sub-tool-container{
+  text-align: center;
+}
+.console-container{
+  padding: 150px 40px;
+  width: 490px;
+  background-color: #181818;
+  background-image: url(https://eyeverse.world/wp-content/uploads/2023/02/box-background-2-1.png);
+  background-position: bottom right;
+  background-size: cover;
+  margin: auto;
+}
+.console-text{
+  font-size: 24px;
+  font-weight: bold;
+}

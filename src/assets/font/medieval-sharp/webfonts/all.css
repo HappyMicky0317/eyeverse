@@ -1,0 +1,32 @@
+@font-face
+{
+    font-family: 'MedievalSharp';
+  src: url('MedievalSharp.eot');
+      url('MedievalSharp.eot?#') format('embedded-opentype'),
+      url('MedievalSharp.woff') format('woff'),
+      url('MedievalSharp.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'MedievalSharp-Bold';
+  src: url('MedievalSharp-Bold.eot');
+      url('MedievalSharp-Bold.eot?#') format('embedded-opentype'),
+      url('MedievalSharp-Bold.woff') format('woff'),
+      url('MedievalSharp-Bold.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'MedievalSharp-BoldOblique';
+  src: url('MedievalSharp-BoldOblique.eot');
+      url('MedievalSharp-BoldOblique.eot?#') format('embedded-opentype'),
+      url('MedievalSharp-BoldOblique.woff') format('woff'),
+      url('MedievalSharp-BoldOblique.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'MedievalSharp-Oblique';
+  src: url('MedievalSharp-Oblique.eot');
+      url('MedievalSharp-Oblique.eot?#') format('embedded-opentype'),
+      url('MedievalSharp-Oblique.woff') format('woff'),
+      url('MedievalSharp-Oblique.ttf') format('truetype');
+}

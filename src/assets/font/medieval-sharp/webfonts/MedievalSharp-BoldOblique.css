@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'MedievalSharp-BoldOblique';
+  src: url('MedievalSharp-BoldOblique.eot');
+      url('MedievalSharp-BoldOblique.eot?#') format('embedded-opentype'),
+      url('MedievalSharp-BoldOblique.woff') format('woff'),
+      url('MedievalSharp-BoldOblique.ttf') format('truetype');
+}

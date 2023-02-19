@@ -1,0 +1,31 @@
+.inside-nfts {
+  background-color: #222222;;
+  padding: 0px 150px;
+  padding-top: 150px;
+}
+.eyeverse-part{
+  text-align: center;
+}
+
+.category-part{
+  text-align: center;
+}
+.category-text{
+  text-align: center;
+  font-size: 53px;
+  font-weight: bold;
+}
+.element-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.element{
+  text-align: center;
+}
+.nft-img{
+  width: 350px;
+}
+.paradox-part{
+  margin-top: 200px;
+}

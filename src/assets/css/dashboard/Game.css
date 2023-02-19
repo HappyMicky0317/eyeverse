@@ -1,0 +1,13 @@
+.inside-game {
+  background-color: #222222;
+  padding: 0px 150px;
+  padding-top: 150px;
+}
+.mini-text{
+  font-size: 78px;
+  color: grey;
+}
+.fighting-container{
+  text-align: center;
+  margin-top: 50px;
+}
